@@ -12,6 +12,7 @@
 **PROBELM STATEMENT:** Companies today aim to provide highly customized services to their clients, which would not be possible without consumer categorization. This allows Today's businesses to conveniently organize their services and goods around their customers this way. The student researchers are interested in performing customer segmentation to find similar characteristics in each customer’s behavior and needs. Then, those are generalized into groups to satisfy demands with various strategies involving targeted marketing and growth activities that would further lead to increasing revenue in business.
 
 **FIRST MEETING (27.05.2021):**
+
 SUGGESTIONS:
 1) To join using Unique Key CustomerID + TransactionID + ProductID
 2) Promotional strategies of stores are on various approaches like:
