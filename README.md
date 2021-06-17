@@ -34,6 +34,11 @@ WAY FORWARD:
 5) Learn about what kind of statistics are used for doing this?
 6) Read about techniques for clustering and segmenting the data of customers. 
 
+OUTCOME:
+1) Studied the data to decide on the essential columns to be kept in the analysis.
+2) Decided to run a basic statistical analysis to study the characteristics of customers. (*for sales strategy*)
+3) To run a top 5 customers competitive analysis.
+
 REFERENCES (RFM):
 1) https://www.optimove.com/resources/learning-center/rfm-segmentation
 2) https://www.moengage.com/blog/rfm-analysis-using-predictive-segments/
