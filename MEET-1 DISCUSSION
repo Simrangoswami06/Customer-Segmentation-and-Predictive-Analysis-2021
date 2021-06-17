@@ -1,0 +1,25 @@
+*FIRST MEETING (27.05.2021)*
+Unique Key will be - CustomerID + TransactionID + ProductID
+Promotional strategies of stores are on various approaches like:
+Transaction frequency
+Payment Mode used
+Co-Branding or Tie-up with someone
+Products which are not moving fast
+      3) Transaction Table
+How many transactions in a month?
+Volume - How many products?
+Value - Low value or High value
+Velocity - No of transactions in a month
+      
+       TO - DO
+Read about sales promotions strategies. Find research papers or books related to them.
+Do Basic Analysis on Data
+Take a couple of Customer IDs and see transactionID and productID for both of them
+What kind of payments and transactions each customer is doing?
+      3) Learn about what kind of statistics are used for doing this?
+      4) Read about techniques for clustering and segmenting the data of customers. 
+
+
+RFM Analysis Articles 
+https://www.optimove.com/resources/learning-center/rfm-segmentation
+https://www.moengage.com/blog/rfm-analysis-using-predictive-segments/
